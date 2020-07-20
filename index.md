@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to Nathaniel Kai Eubanks' Personal Page! 
 
-You can use the [editor on GitHub](https://github.com/nke5ka/nke5ka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I hope to share neat tidbits of my projects, those that exist upon the glowing screen which life revolves around, as well as less computer-focused activities.  I hope you enjoy the journey!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Short Bio
+My name is Nathaniel Kai Eubanks, but I generally am called `Kai`.  My location fluctuates as does that of most people, but generally has centered around Northern Virginia my whole life.  I enjoyed a childhood of exploring the woods and drainage ditches with friends, creating technical drawings of imagined machinery, and some light "coding" (Flash).  Since then I have attended Mr. Jefferson's high school (TJHSST) and Mr. Jefferson's university (UVA, Engineering School / Computer Science).  At these fine institutions, I have taken many classes with wonderful topics which helped me grow my skills.  In addition to these classes, I got some great industry experience through a bunch of internships.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After my humble beginnings, I took up employment with Applied Predictive Technologies, a part of Mastercard.  I find myself very fortunate to live in an era of unparalleled software horizons: I get to work on building cool software to analyze transaction data and retail/banking data!
 
-```markdown
-Syntax highlighted code block
+Outside of work, I enjoy `{woodworking, music, cycling, exploring new things}` - I hope to share those passions as well.
 
-# Header 1
-## Header 2
-### Header 3
+## Links to My Work
 
-- Bulleted
-- List
+### Software
+I enjoy software creation because of the ability to create cool things where before there was only empty canvas.
 
-1. Numbered
-2. List
+### Crafts
+Pretty stuff will live here one day
 
-**Bold** and _Italic_ and `Code` text
+### The Joys of Cycling
+Bike goes faster than feet: An analysis of journeys
 
-[Link](url) and ![Image](src)
-```
+### Music
+Violin, Ukulele, Reed Organ, Clarinet
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+(This page is still growing, much like a parasitic insect.  Personal projects will be polished, made more interactive if possible, and then added here.)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nke5ka/nke5ka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Dreaming of Big Projects to Come
+What is next?  Only time shall tell!
