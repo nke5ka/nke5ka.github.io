@@ -1,10 +1,16 @@
+---
+title: Things That Leave No Proof
+layout: default
+filename: thingsthatleavenoproof.md
+--- 
+
 # Things that leave no proof
 Ephemeral actions like exercise and music are great and sad at the same time, each note or push lives but for a moment - mistakes and triumphs alike disappear as soon as they happen.
 
 ### Journey elsewhere?
-[Main Page and Computer Stuff](https://nke5ka.github.io/)
-[Crafts (Wood, 3D print, etc.)](https://nke5ka.github.io/crafts.md)
-[Actions: Exercise, Music, etc.](https://nke5ka.github.io/thingsthatleavenoproof.md) <---- You are here
+* [Main Page and Computer Stuff](https://nke5ka.github.io/)
+* [Crafts (Wood, 3D print, etc.)](https://nke5ka.github.io/crafts)
+* [Actions: Exercise, Music, etc.](https://nke5ka.github.io/thingsthatleavenoproof) <--- You are here
 
 # The Joys of Cycling
 There are many biking opportunities in Arlington!  My fleet currently consists of the following bikes:  

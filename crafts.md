@@ -1,10 +1,16 @@
+---
+title: Intro to Crafts
+layout: default
+filename: crafts.md
+--- 
+
 # Intro to Crafts
 In addition to dumpster diving as a source of items to fill my apartment, I like to create knickknacks and furniture with my hands.  Feel free to send an email with any cool ideas or to share any of your work!
 
 ### Journey elsewhere?
-[Main Page and Computer Stuff](https://nke5ka.github.io/)
-[Crafts (Wood, 3D print, etc.)](https://nke5ka.github.io/crafts.md) <---- You are here
-[Actions: Exercise, Music, etc.](https://nke5ka.github.io/thingsthatleavenoproof.md)
+* [Main Page and Computer Stuff](https://nke5ka.github.io/)
+* [Crafts (Wood, 3D print, etc.)](https://nke5ka.github.io/crafts) <--- You are here
+* [Actions: Exercise, Music, etc.](https://nke5ka.github.io/thingsthatleavenoproof)
 
 # Wood
 

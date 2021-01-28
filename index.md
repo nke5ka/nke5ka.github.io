@@ -3,9 +3,9 @@
 I hope to share neat tidbits of my projects: those that exist upon the glowing screen which life revolves around, as well as less computer-focused activities.  I hope you enjoy the journey!
 
 ### Journey elsewhere?
-[Main Page and Computer Stuff](https://nke5ka.github.io/) <---- You are here
-[Crafts (Wood, 3D print, etc.)](https://nke5ka.github.io/crafts.md)
-[Actions: Exercise, Music, etc.](https://nke5ka.github.io/thingsthatleavenoproof.md)
+* [Main Page and Computer Stuff](https://nke5ka.github.io/) <--- You are here
+* [Crafts (Wood, 3D print, etc.)](https://nke5ka.github.io/crafts)
+* [Actions: Exercise, Music, etc.](https://nke5ka.github.io/thingsthatleavenoproof)
 
 ### Short Bio
 My name is Nathaniel Kai Eubanks, but I generally am called `Kai`.  My location fluctuates as does that of most people, but generally has centered around Northern Virginia my whole life.  I enjoyed a childhood of exploring the woods and drainage ditches with friends, creating technical drawings of imagined machinery, and some light "coding" (Flash, BASIC).  Since then I have attended Mr. Jefferson's high school (TJHSST) and Mr. Jefferson's university (UVA, Engineering School / Computer Science).  At these fine institutions, I have taken many classes with wonderful topics which helped me grow my skills.  In addition to these classes, I got some great industry experience through a bunch of internships.
