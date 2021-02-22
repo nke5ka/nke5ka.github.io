@@ -36,6 +36,12 @@ My main workflow is:
 4. Print!
 5. Babysit the first layer
 6. Every now and then glance over to ensure success.
+7. Post processing using:
+ * box cutter
+ * dental probe/pick set
+ * mini diamond files
+ * large files
+ * metal rod
 
 ## The Era of Test Prints (1, 2)
 I printed the default dog (1) which came with the printer.  The huge raft is a waste of plastic and print time.  Afterwards I printed the standard benchy (2) which came out smooth and nice.
