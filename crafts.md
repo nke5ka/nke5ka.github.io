@@ -95,6 +95,18 @@ Small turntable (Orrery)
 
 I then realized I could buy these pieces for pennies each...
 
+## Flying Turtle Automaton (13)
+After ensuring printer is calibrated using fish, I printed out the body of the turtle, the gears, crank, rods, etc.  In order attain success, hours of sanding joints had to be performed, and each individual component of the system had to be smooth and as frictionless as possible.  Lubrication techniques should be investigated when the opportunity arises.
+
+## Modular Engine (14 WIP)
+Pieces printed and assembly is on todo list.
+
+## Cranked Propeller Frog (15 WIP)
+"It's Wednesday, my dudes." Gift for friend.  Printed at 50% scale.
+
+## Taiwan Topographical Map (16)
+Gift for friend.  Todo: mail to friend; make topo map of D.C. and California.
+
 ## Clock
 Still in the search phase.  I have a spreadsheet of candidates but might design my own variant of available pendulum clocks.
 
